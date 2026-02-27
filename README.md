@@ -11,4 +11,4 @@ Interactive dashboard built on top of the SQL database, including weekly drill-d
 End-to-end exploratory data analysis using pandas, seaborn, matplotlib, plotly, statsmodels, and scikit-learn, including data cleaning, outlier detection, and univariate, bivariate, and multivariate analysis.
 
 ## Tools & Technologies
-Python, SQL, PostgreSQL, Power BI, DAX, Power Query, pandas, scikit-learn
+Python, SQL, Power BI, DAX, Power Query, pandas, scikit-learn
