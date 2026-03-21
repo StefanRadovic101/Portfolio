@@ -12,3 +12,6 @@ End-to-end exploratory data analysis using pandas, seaborn, matplotlib, plotly, 
 
 ## Tools & Technologies
 Python, SQL, Power BI, DAX, Power Query, pandas, scikit-learn
+
+
+**Tableau** — two interactive dashboards built using calculated fields, parameters, action filters, relationships across data sources, and a variety of chart types including area charts, bubble charts, lollipop charts, treemaps and animated scatter plots.
